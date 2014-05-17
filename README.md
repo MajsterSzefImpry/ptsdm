@@ -4,7 +4,7 @@ Pełny opis mapy, wszelkie informacje dostępne pod tym adresem:
 
 
 Autor główny: Maku.
-Edycja wykonana przez: [member=Wojtek020699] oraz [member=_NexuS_].
+Edycja wykonana przez: Wojtek020699 (MajsterSzefImpry) oraz NexuS.
 
 
 Witam, dziś mam chęć zaprezentować wam gamemode który był kiedyś na Polski TOP Serwer, na mapie grywało po 20 osób bez hosted.
